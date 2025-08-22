@@ -12,7 +12,7 @@ docx 文件转 pdf 的工具。
     ```
    - 第三种方式：直接下载 jar 包运行
     ```bash
-    java -jar docx2pdf-1.0.0.jar
+    java -jar docx2pdf.jar
     ```
 2. 访问：http://localhost:8080/swagger-ui/index.html
 3. 调用接口：`/convert`，上传文件 docx 文件，下载接口返回的 pdf 文件
